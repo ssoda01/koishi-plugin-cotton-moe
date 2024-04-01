@@ -1,6 +1,6 @@
 {
   "name": "koishi-plugin-cotton-moe",
-  "description": "moe",
+  "description": "just like 'marshmallow-qa'",
   "version": "0.0.1",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
@@ -8,6 +8,16 @@
     "lib",
     "dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssoda01/koishi-plugin-cotton-moe"
+  },
+  "koishi": {
+    "description": {
+      "en": "A koishi plugin you can just like 'marshmallow-qa'",
+      "zh": "本质消息转发的棉花糖插件"
+    }
+  },
   "license": "MIT",
   "keywords": [
     "chatbot",
