@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-cotton-moe",
   "description": "just like 'marshmallow-qa'",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -14,8 +14,8 @@
   },
   "koishi": {
     "description": {
-      "en": "A koishi plugin you can just like 'marshmallow-qa'",
-      "zh": "本质消息转发的棉花糖插件"
+      "en": "A koishi plugin you can just like 'marshmallow-qa'. Please read the README on github before use.",
+      "zh": "本质消息转发的棉花糖插件。使用前请先阅读github上的README"
     }
   },
   "license": "MIT",
