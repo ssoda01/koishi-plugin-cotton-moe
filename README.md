@@ -2,8 +2,6 @@
 
 [![npm](https://img.shields.io/npm/v/koishi-plugin-cotton-moe?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-cotton-moe)
 
-~~是的我还没发npm包~~
-
 本质消息转发的棉花糖插件。
 
 写给一个不能说的平台。
